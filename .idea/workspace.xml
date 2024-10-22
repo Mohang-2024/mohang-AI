@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2c26e18-bd8b-405f-b53b-f19ea908f845" name="변경" comment="" />
+    <list default="true" id="f2c26e18-bd8b-405f-b53b-f19ea908f845" name="변경" comment="Merge remote-tracking branch 'origin/main'" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,8 +69,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729590545298</updated>
-      <workItem from="1729590546371" duration="804000" />
+      <workItem from="1729590546371" duration="2304000" />
     </task>
+    <task id="LOCAL-00001" summary="Revert &quot;hand_action NEW!&quot;&#10;&#10;This reverts commit 3f6722312dce1e0954a40de01f0c1cbecc12aceb.">
+      <option name="closed" value="true" />
+      <created>1729591427587</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729591427587</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Revert &quot;hand_action NEW!&quot;&#10;&#10;This reverts commit 3f6722312dce1e0954a40de01f0c1cbecc12aceb.">
+      <option name="closed" value="true" />
+      <created>1729592769208</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729592769208</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +115,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add hand_action" />
+    <MESSAGE value="Revert &quot;hand_action NEW!&quot;&#10;&#10;This reverts commit 3f6722312dce1e0954a40de01f0c1cbecc12aceb." />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/hand_actionGit$test.coverage" NAME="test 커버리지 결과" MODIFIED="1729591006298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hand_action" />
