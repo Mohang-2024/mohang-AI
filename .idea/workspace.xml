@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2c26e18-bd8b-405f-b53b-f19ea908f845" name="변경" comment="Merge remote-tracking branch 'origin/main'" />
+    <list default="true" id="f2c26e18-bd8b-405f-b53b-f19ea908f845" name="변경" comment="add hand_action" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,21 +13,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "komojo16"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;komojo16&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Mohang-2024/mohang-AI.git",
-    "accountId": "30e11f89-b625-4c21-a7a1-fc14cfba8976"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Mohang-2024/mohang-AI.git&quot;,
+    &quot;accountId&quot;: &quot;30e11f89-b625-4c21-a7a1-fc14cfba8976&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2nmuPBgQzOSPsNbDUr4WvPOPysb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,8 +37,8 @@
   "keyToString": {
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/kyle0/Desktop/project/age_gender_estimation-master",
+    "git-widget-placeholder": "hand__action",
+    "last_opened_file_path": "C:/Users/kyle0/Desktop/mohang-AI-hand_action",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,6 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1729590545298</updated>
       <workItem from="1729590546371" duration="2304000" />
+      <workItem from="1729593303026" duration="331000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;hand_action NEW!&quot;&#10;&#10;This reverts commit 3f6722312dce1e0954a40de01f0c1cbecc12aceb.">
       <option name="closed" value="true" />
@@ -87,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729592769208</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add hand_action">
+      <option name="closed" value="true" />
+      <created>1729593479683</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729593479683</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,7 +113,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/hand_action" />
+                        <option value="hand_action" />
                       </list>
                     </value>
                   </entry>
@@ -117,10 +126,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add hand_action" />
     <MESSAGE value="Revert &quot;hand_action NEW!&quot;&#10;&#10;This reverts commit 3f6722312dce1e0954a40de01f0c1cbecc12aceb." />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="add hand_action" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hand_action" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/hand_actionGit$test.coverage" NAME="test 커버리지 결과" MODIFIED="1729591006298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hand_action" />
